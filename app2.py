@@ -73,7 +73,7 @@ st.markdown(
 
 # Inicializar Earth Engine
 if not ee.data._credentials:
-    ee.Initialize(project="sairv-ee")
+    ee.Initialize(project="ee-freddyvillota")
 
 # Paleta de colores y nombres
 class_palette = ['#1f78b4', '#006400', '#e7298a', '#7fc97f', '#8c510a']
@@ -82,12 +82,15 @@ class_names = ['Agua', 'Bosque', 'Urbano', 'Cultivo', 'Suelo']
 # ----------------------------
 # Encabezado institucional
 # ----------------------------
-st.image("/content/drive/MyDrive/Curso_CIATEJ-CUGDL/curso/images/CUTONALA.png", width=250)
+st.image("/content/drive/MyDrive/MIAA/Clases/Herramientas IA/Prácticas/miaa-final-project/images/utpl.png", width=250)
 st.markdown("""
-## UNIVERSIDAD DE GUADALAJARA
+## UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA
+### FACULTAD DE INGENIERÍAS Y ARQUITECTURA
+### MAESTRÍA EN INTELIGENCIA ARTIFICIAL APLICADA
 
 **Autor:** Freddy Hernán Villota González  
-**Fecha:** 16 de junio de 2025
+**Docente:** M.Sc. Alexandra Cristina González Eras  
+**Fecha:** 16 de mayo de 2025
 """)
 
 st.title("🌍 Clasificador de Cobertura y Análisis de Cambio")

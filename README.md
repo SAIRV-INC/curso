@@ -1,12 +1,10 @@
 
 ---
 
-# UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA
+# UNIVERSIDAD DE GUADALAJARA
 
-<img src="https://drive.google.com/uc?id=1X5UmWVlUX9XmckJgFLmv6mTTX81GEr0c" width="300">
+<img src="https://drive.google.com/uc?export=view&id=1wrmV9Vy19ggVLw8973FLo95429FlqjHe" width="400">
 
-## FACULTAD DE INGENIERÍAS Y ARQUITECTURA
-### MAESTRÍA EN INTELIGENCIA ARTIFICIAL APLICADA
 
 ---
 
@@ -18,13 +16,9 @@ Aplicación web desarrollada con **Streamlit** para visualizar, clasificar y ana
 
 ## 🏫 Proyecto académico
 
-**Universidad Técnica Particular de Loja (UTPL)**  
-**Facultad de Ingenierías y Arquitectura**  
-**Maestría en Inteligencia Artificial Aplicada**
 
 - **Autor**: Freddy Hernán Villota González  
-- **Docente**: M.Sc. Alexandra Cristina González Eras  
-- **Fecha**: 16 de mayo de 2025
+- **Fecha**: 16 de junio de 2025
 
 ---
 
